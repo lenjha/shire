@@ -1,0 +1,17 @@
+.jumbotron {
+  background-image: url("../images/hogwarts.jpg");
+  background-size: cover;
+}
+
+.jumbotron-title {
+  color: #fff;
+}
+
+.jumbotron-subtitle {
+  color: #ccc;
+}
+
+.quote1 {
+  background-color: #ddd;
+  padding: 10px;
+}
