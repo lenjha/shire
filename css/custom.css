@@ -1,17 +1,45 @@
+body {
+
+}
+
+h1 {
+  font-size: 6em;
+}
+
 .jumbotron {
   background-image: url("../images/hogwarts.jpg");
   background-size: cover;
 }
 
 .jumbotron-title {
-  color: #fff;
+  margin-left: 10px;
+  font-family: 'Berkshire Swash', cursive;
+  color: gold;
+  background-color: rgba(0,0,0,0.5);
+  /*
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #555; */
 }
 
 .jumbotron-subtitle {
-  color: #ccc;
+  margin-left: 10px;
+  color: #eee;
+  background-color: rgba(50,50,50,0.5);
 }
 
 .quote1 {
   background-color: #ddd;
   padding: 10px;
+}
+
+.hobbit {
+  background-color: #ccc;
+}
+
+.dumbledore {
+  background-color: #aaa;
+}
+
+.optimus {
+  background-color: #888;
 }
